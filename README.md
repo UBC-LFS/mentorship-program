@@ -19,7 +19,7 @@ $ cd term2
 $ python3 mentorship.py
 ```
 
-# Create an executable (.exe) file
+### Create an executable (.exe) file
 ```
 $ pip3 install pyinstaller
 $ pyinstaller --onefile mentorship.py
